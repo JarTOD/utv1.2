@@ -1,4 +1,10 @@
+# •••UPTOCOIN•••
+
+
+
 # utv1.2
+
+nuyul dogecoin "uptocoin" via Termux...
 
 Masukkan perintah berikut!!!
 
